@@ -68,3 +68,6 @@ http://graphics8.nytimes.com/newsgraphics/2015/05/12/amtrak-crash-philly/8275e08
 http://graphics8.nytimes.com/newsgraphics/2015/05/12/amtrak-crash-philly/8275e080a826f1511f068cbbc85cc07b6e048e44/amtrak-crash-Artboard_4.png
 http://graphics8.nytimes.com/newsgraphics/2014/03/05/buy-vs-rent/abfeeab29fccfe123d5add02c3ac2b1a691cedcd/runtime.js
 http://a1.nyt.com/assets/interactive/20150710-131623/js/foundation/lib/d3/3.4.11.js
+http://graphics8.nytimes.com/newsgraphics/2015/06/04/azoresmap/1623a241e8b393bb74ee1b151f1dc9d8ec6090a6/resizerStyle.css
+http://graphics8.nytimes.com/newsgraphics/2015/06/04/azoresmap/1623a241e8b393bb74ee1b151f1dc9d8ec6090a6/0605-for-webAZORESmap-300.png
+http://graphics8.nytimes.com/newsgraphics/2015/06/04/azoresmap/1623a241e8b393bb74ee1b151f1dc9d8ec6090a6/resizerScript.js
