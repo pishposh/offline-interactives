@@ -104,4 +104,7 @@ http://i1.nyt.com/images/2015/05/09/upshot/11up-Menu/11up-Menu-jumbo.jpg
 http://i1.nyt.com/images/2015/05/09/upshot/11up-Menu/11up-Menu-popup.jpg
 http://i1.nyt.com/images/2015/05/09/upshot/11up-Menu/11up-Menu-slide.jpg
 http://i1.nyt.com/images/2015/05/09/upshot/11up-Menu/11up-Menu-superJumbo.jpg
-http://int.nyt.com/docker/listy/assets/listy-b6751d621c0ad6d2abe74726b15a03c1f5bebad2996164a3e4a2641fef798d69.js?body=1
+http://int.nyt.com/docker/listy/assets/listy-b6751d621c0ad6d2abe74726b15a03c1f5bebad2996164a3e4a2641fef798d69.js
+http://static01.nyt.com/video/vhs/build/vhs-2.x.min.js
+http://a1.nyt.com/assets/interactive/20150710-131623/js/shared/sharetools/views/sharetools.js
+http://a1.nyt.com/assets/interactive/20150710-131623/js/shared/ad/views/ads.js

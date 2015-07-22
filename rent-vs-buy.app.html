@@ -61,10 +61,10 @@
 <meta name="news_keywords" content="Real Estate and Housing;Mortgage loan;Rent" />
 
                 <!--[if (gt IE 9)|!(IE)]> <!-->
-        <link rel="stylesheet" type="text/css" media="screen" href="./resources/a1.nyt.com/assets/interactive/20150710-131623/css/interactive/styles.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="http://nyt-resources:9999/a1.nyt.com/assets/interactive/20150710-131623/css/interactive/styles.css" />
     <!--<![endif]-->
     <!--[if lte IE 9]>
-        <link rel="stylesheet" type="text/css" media="screen" href="./resources/a1.nyt.com/assets/interactive/20150710-131623/css/interactive/styles-ie.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="http://nyt-resources:9999/a1.nyt.com/assets/interactive/20150710-131623/css/interactive/styles-ie.css" />
     <![endif]-->
         <script id="display_overrides">
     ["HIDE_RIBBON"]</script>
@@ -133,29 +133,29 @@
 
 <script>
 var require = {
-    baseUrl: './resources/a1.nyt.com/assets/',
+    baseUrl: 'http://nyt-resources:9999/a1.nyt.com/assets/',
     waitSeconds: 20,
     paths: {
         'foundation': 'interactive/20150710-131623/js/foundation',
         'shared': 'interactive/20150710-131623/js/shared',
         'interactive': 'interactive/20150710-131623/js/interactive',
         'application': 'interactive/20150710-131623/js/interactive/',
-        'videoFactory': './resources/static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
-        'videoPlaylist': './resources/static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
-        'auth/mtr': './resources/static01.nyt.com/js/mtr',
-        'auth/growl': './resources/static01.nyt.com/js/auth/growl/default',
-        'vhs': './resources/static01.nyt.com/video/vhs/build/vhs-2.x.min'
+        'videoFactory': 'http://nyt-resources:9999/static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'http://nyt-resources:9999/static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'http://nyt-resources:9999/static01.nyt.com/js/mtr',
+        'auth/growl': 'http://nyt-resources:9999/static01.nyt.com/js/auth/growl/default',
+        'vhs': 'http://nyt-resources:9999/static01.nyt.com/video/vhs/build/vhs-2.x.min'
     }
 };
 </script>
 <!--[if (gte IE 9)|!(IE)]> <!-->
-<script data-main="foundation/main" src="./resources/a1.nyt.com/assets/interactive/20150710-131623/js/foundation/lib/framework.js"></script>
+<script data-main="foundation/main" src="http://nyt-resources:9999/a1.nyt.com/assets/interactive/20150710-131623/js/foundation/lib/framework.js"></script>
 <!--<![endif]-->
 <!--[if lt IE 9]>
 <script>
 require.map = { '*': { 'foundation/main': 'foundation/legacy_main' } };
 </script>
-<script data-main="foundation/legacy_main" src="./resources/a1.nyt.com/assets/interactive/20150710-131623/js/foundation/lib/framework.js"></script>
+<script data-main="foundation/legacy_main" src="http://nyt-resources:9999/a1.nyt.com/assets/interactive/20150710-131623/js/foundation/lib/framework.js"></script>
 <![endif]-->
 <script>
 window.magnum.processFlags(["limitFabrikSave","relatedCoverage","followFeature","directShareOpen"]);
@@ -1282,7 +1282,7 @@ html:not(.viewport-medium-30) #preview-banner {
 </div>
 <script>
 
-require(["foundation/main"], function() { require(["./resources/graphics8.nytimes.com/newsgraphics/2014/03/05/buy-vs-rent/abfeeab29fccfe123d5add02c3ac2b1a691cedcd/runtime.js"]); });
+require(["foundation/main"], function() { require(["http://nyt-resources:9999/graphics8.nytimes.com/newsgraphics/2014/03/05/buy-vs-rent/abfeeab29fccfe123d5add02c3ac2b1a691cedcd/runtime.js"]); });
 
 </script>
 <script>_gaq = [['_setAccount', 'UA-9262032-1'], ['_trackPageview']];</script>
